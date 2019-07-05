@@ -52,8 +52,10 @@ ol, ul {
 
 .game-board {
   flex-basis: 150px;
+  flex-wrap: wrap;
 }
 .game-info {
   flex-basis: 150px;
   margin: 5px;
+  flex-wrap: wrap;
 }
